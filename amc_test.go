@@ -3,7 +3,7 @@ package acm
 import (
 	"context"
 	"fmt"
-	"go-ctf/common/paladin"
+	"github.com/bilibili/kratos/pkg/conf/paladin"
 	"os"
 	"testing"
 	"time"
