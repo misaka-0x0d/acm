@@ -13,6 +13,7 @@ import (
 	"github.com/bilibili/kratos/pkg/log"
 	"os"
 	"strings"
+	"flag"
 )
 //https://github.com/nacos-group/nacos-sdk-go
 var (
